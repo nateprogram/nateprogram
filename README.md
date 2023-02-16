@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nateprogram
 - 👀 I’m interested in Investing(stocks/options), cars, and software development
-- 🌱 I know C/c++/c#/Python/java/HTML/CSS/typescript
+- 🌱 I know C/C++/C#/Python/java/HTML/CSS/typescript
 - 💞️ I’m looking to collaborate on software trading bots
 - 📫 How to reach me nwhit12@gmail.com
 
